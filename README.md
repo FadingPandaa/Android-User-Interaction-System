@@ -38,7 +38,7 @@ Key concepts:
 -----------------
 ## ▶️ How to Run
 
-Using Visual Studio:
+Using Android Studio:
 
 1. Open the project in Android Studio
 2. Allow Gradle dependencies to sync
